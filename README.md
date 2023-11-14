@@ -1,7 +1,10 @@
 # SpikeMemory
  SpikeGLX companion app for extended real-time visualizations.
 
- Source code is available now, and precompiled binaries will be up next week after SfN discussions. Consider filling out the form below if you're interested:
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLRE7KDYICusOTfYpPJU0fJsF5pDntL2QOPmE48qMWAjGceA/viewform?embedded=true" width="640" height="1114" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ Source code for the pre-alpha version is available now, and precompiled binaries (configured for use with the NI BNC-2110) will be up next week after SfN discussions. 
+ 
+ Consider filling out the following form if there's anything you'd like to see changed or included in these early default releases:
+https://forms.gle/63P9feSSEmuXs2XZ8
+
 
  
